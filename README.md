@@ -6,7 +6,7 @@ I'm a data and analytics professional who spent years embedded in complex client
 
 ## What I'm Building
 
-### 💭 SquishHaven — Mental Wellness Companion
+### 🟣 SquishHaven — Mental Wellness Companion
 > *A soft place for hard moments.*
 
 A mobile-first emotional wellness PWA for people going through emotional hardship — anxiety, burnout, grief, overwhelm, and more. Not a therapy app — a calm, cozy companion that sits with you in hard moments to hold you while you work through it.
@@ -31,10 +31,10 @@ Built end-to-end — product strategy, UX, AI architecture, content, deployment.
 
 | | |
 |---|---|
-| **Analytics** | SQL, SAS, Python, Tableau, Power BI, Databricks · Audit accounting systems (SAP, NetSuite, QuickBooks, Xero, Sage) |
+| **Analytics** | SQL, SAS, Python, Tableau, Power BI, Databricks · Audit accounting systems (SAP, NetSuite, QuickBooks, Xero, Sage) · Process automation & data pipelines |
 | **Product** | 0→1 ownership · problem definition, strategy, design through built/shipped product · human-centered, empathetic design approach & user experience |
 | **AI** | Anthropic API · Prompt architecture & LLM system design · Supabase Edge Functions · AI-assisted UI/UX prototyping · Vercel deployment |
-| **Domain** | Mental health & psychosocial wellbeing · Behavioral & emotional health · Child social-emotional development · Animal welfare · AI consumer apps |
+| **Currently Building For** | Mental health & psychosocial wellbeing · Behavioral & emotional health · Child social-emotional development · Animal welfare · AI consumer apps |
 
 ---
 
