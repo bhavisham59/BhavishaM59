@@ -6,10 +6,14 @@ I'm a data and analytics professional who spent years embedded in complex client
 
 ## What I'm Building
 
-### 🟣 SquishHaven — Mental Wellness Companion
+*I build for problems with genuine impact and societal stakes. The intersection of emotional safety and technical craft. Building things that are warm before they're clever — that's the north star.*
+
+---
+
+### 💭 SquishHaven — Mental Wellness Companion
 > *A soft place for hard moments.*
 
-A mobile-first emotional wellness PWA for people going through emotional hardship — anxiety, burnout, grief, overwhelm, and more. Not a therapy app — a calm, cozy companion that sits with you in hard moments to hold you while you work through it.
+A mobile-first emotional wellness PWA for people going through emotional hardship — anxiety, burnout, grief, overwhelm, and more. Informed by mental health principles and clinical insights — a calm, cozy companion that sits with you in hard moments to hold you while you work through it.
 
 **→ [Live App](https://squish-haven.vercel.app)**
 
@@ -22,7 +26,7 @@ Built end-to-end — product strategy, UX, AI architecture, content, deployment.
 
 ---
 
-### 🐾 Floof-Haven *(in development)*
+### 🐾 FloofHaven *(in development)*
 > *A real-time network for kind souls who find animals in need and don't know what to do next — cutting through the broken systems and connecting them directly to people who do, because the ones who need help most can't ask for it.*
 
 ---
@@ -33,23 +37,18 @@ Built end-to-end — product strategy, UX, AI architecture, content, deployment.
 |---|---|
 | **Analytics** | SQL, SAS, Python, Tableau, Power BI, Databricks · Audit accounting systems (SAP, NetSuite, QuickBooks, Xero, Sage) · Process automation & data pipelines |
 | **Product** | 0→1 ownership · problem definition, strategy, design through built/shipped product · human-centered, empathetic design approach & user experience |
-| **AI** | Anthropic API · Prompt architecture & LLM system design · Supabase Edge Functions · AI-assisted UI/UX prototyping · Vercel deployment |
+| **AI** | Anthropic API · Prompt architecture & LLM system design · Supabase Edge Functions · AI-assisted UI/UX designing and prototyping · Vercel deployment |
 | **Currently Building For** | Mental health & psychosocial wellbeing · Behavioral & emotional health · Child social-emotional development · Animal welfare · AI consumer apps |
 
 ---
 
-## What I Care About
+## Where I Am Right Now
 
-Products with genuine human stakes. The intersection of emotional safety and technical craft. Building things that are warm before they're clever.
-
----
-
-## Currently
-
-- 🔨 Shipping: SquishHaven (live on Vercel, active development)
-- 🌙 Building: TheraTales — personalized SEL bedtime stories
-- 🐾 Designing: Floof-Haven — real-time animal rescue coordination network
-- 🔍 Exploring: Product and analytics roles at companies building things that matter
+- 💭 Shipping SquishHaven — live on Vercel, actively iterating
+- 🌙 Building TheraTales — architecture and design phase
+- 🐾 Designing FloofHaven — early stage, concept to brief
+- 📖 Exploring — AI product development, product strategy & discovery, prompt engineering, UX & design, vibe coding, and hobby hopping on the side
+- 🔍 Open to — product analyst, business analyst, product strategy & design, project management, product management at companies building things that matter
 
 ---
 
