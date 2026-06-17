@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Bhavisha 👋
 
-<!--
-**bhavisham59/BhavishaM59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data and analytics professional who spent years embedded in complex client environments — leading cross-functional teams, managing stakeholders, and translating complex business needs into scalable data solutions for Fortune 500 companies — across industries, at Deloitte. That time taught me how to sit with messy data, unclear requirements, and people who don't always know what they need — and find the signal anyway. Somewhere in that process of analyzing data, systems, and human behavior, I realized I cared more about solving the problem than delivering the report. So I started intentionally dipping into the world of product — idea, strategy, design, build. Learning by doing, figuring out what product work actually looks like from the inside, and building AI-powered apps for problems that are sometimes overlooked but genuinely deserve more attention.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+### 💭 SquishHaven — Mental Wellness Companion
+> *A soft place for hard moments.*
+
+A mobile-first emotional wellness PWA for people going through emotional hardship — anxiety, burnout, grief, overwhelm, and more. Not a therapy app — a calm, cozy companion that sits with you in hard moments to hold you while you work through it.
+
+**→ [Live App](https://squish-haven.vercel.app)**
+
+Built end-to-end — product strategy, UX, AI architecture, content, deployment. No prior dev background. AI-assisted implementation via Claude Code; every product decision was mine.
+
+---
+
+### 🌙 TheraTales *(in development)*
+> *Personalized SEL bedtime stories that meet your child where their day left them.*
+
+---
+
+### 🐾 Floof-Haven *(in development)*
+> *A real-time network for kind souls who find animals in need and don't know what to do next — cutting through the broken systems and connecting them directly to people who do, because the ones who need help most can't ask for it.*
+
+---
+
+## Background
+
+| | |
+|---|---|
+| **Analytics** | SQL, SAS, Python, Tableau, Power BI, Databricks · Audit accounting systems (SAP, NetSuite, QuickBooks, Xero, Sage) |
+| **Product** | 0→1 ownership · problem definition, strategy, design through built/shipped product · human-centered, empathetic design approach & user experience |
+| **AI** | Anthropic API · Prompt architecture & LLM system design · Supabase Edge Functions · AI-assisted UI/UX prototyping · Vercel deployment |
+| **Domain** | Mental health & psychosocial wellbeing · Behavioral & emotional health · Child social-emotional development · Animal welfare · AI consumer apps |
+
+---
+
+## What I Care About
+
+Products with genuine human stakes. The intersection of emotional safety and technical craft. Building things that are warm before they're clever.
+
+---
+
+## Currently
+
+- 🔨 Shipping: SquishHaven (live on Vercel, active development)
+- 🌙 Building: TheraTales — personalized SEL bedtime stories
+- 🐾 Designing: Floof-Haven — real-time animal rescue coordination network
+- 🔍 Exploring: Product and analytics roles at companies building things that matter
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/bhavisha-mehta/)
