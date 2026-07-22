@@ -18,7 +18,10 @@
 - **Stack:** React + Vite, Supabase (auth, Postgres, Edge Functions), Claude AI, Vercel
 - **Built with:** AI-assisted development (Claude for strategy/content/planning, Claude Code for implementation)
 
-<p align="center"><img src="./screenshots/03-flow-select.png" width="240" alt="Flow-select screen showing grouped sections"></p>
+<p align="center">
+  <img src="./screenshots/03-flow-select.png" width="220" alt="Flow-select screen showing grouped sections">
+  <img src="./screenshots/09-flow-midstep.png" width="220" alt="Anxiety flow mid-step — breathing exercise with Squishy">
+</p>
 
 ---
 
@@ -66,10 +69,16 @@ The mascot — Squishy, a soft quokka — embodies the product's whole personali
 | **SOS overlay** | Persistent, one tap from any screen. Direct 988 call, grounding tools, and the user's own saved safety plan. Never buried behind a menu. |
 | **Safety plan** | Written in the user's own words when calm — warning signs, personal anchors, a trusted contact, and personal reasons — surfaced back to them inside the SOS overlay when it matters most. |
 | **AI companion (Squishy)** | AI-guided reflections that respond to what you write — warm, in the moment, never clinical. Appears inline in journal and flow steps. |
+
+<p align="center"><img src="./screenshots/07-journal-ai-nudge.png" width="220" alt="Journal entry with Squishy AI response inline"></p>
+
 | **6 guided programs** | Multi-day structured tracks (5–10 days each): Breaking self-criticism, Anxiety toolkit, Gratitude practice, Grief wave, Softer inner voice, Finding meaning. Each day builds on what you shared the day before, so it feels like an ongoing conversation rather than a checklist. |
 | **My Journey** | Streak tracking, this-week mood chart, and guided-program progress at a glance. |
 
-<p align="center"><img src="./screenshots/06-wave-timer.png" width="220" alt="Wave box-breathing timer screen"></p>
+<p align="center">
+  <img src="./screenshots/08-dopamine-menu.png" width="220" alt="Dopamine menu with curated course suggestions">
+  <img src="./screenshots/06-wave-active.png" width="220" alt="Wave box-breathing timer mid-countdown">
+</p>
 
 ---
 
