@@ -12,8 +12,8 @@
 
 ## Quick Scan
 
-- **What it is:** A mobile-first PWA offering guided emotional support, somatic regulation, journaling, and always-on crisis access — without the clinical coldness of most mental health apps
-- **Who it's for:** Adults 18–35 navigating everyday emotional difficulty — not in crisis, but not okay either
+- **What it is:** A mobile-first PWA for everyday emotional difficulty — guided support, somatic regulation, journaling — with crisis support always one tap away if things get worse
+- **Who it's for:** Adults navigating everyday emotional difficulty — whether that's a 60-second physical reset when it's too much right now (Wave), a step-by-step walkthrough of a specific feeling (guided flows), a quiet place to think it through with a companion who responds (journal + AI), or a longer habit to build over days (guided programs)
 - **My role:** End-to-end — product strategy, UX design, content writing, architecture direction, QA, deployment
 - **Stack:** React + Vite, Supabase (auth, Postgres, Edge Functions), Claude AI, Vercel
 - **Built with:** AI-assisted development (Claude for strategy/content/planning, Claude Code for implementation)
@@ -41,7 +41,7 @@ That's the gap SquishHaven is built for. Not a therapy replacement — a compani
 
 > *"A soft place for hard moments."*
 
-The mascot — Squishy, a soft quokka — embodies the product's whole personality: gentle, non-judgmental, always there. The app adapts to a user's chosen support style (gentle companion / active support / just exploring), so it meets someone where they actually are that day.
+The mascot — Squishy, a soft quokka — embodies the product's whole personality: gentle, non-judgmental, always there. The app adapts to a user's chosen support style (gentle companion / active support / just exploring), and just as importantly, to what they actually have capacity for in the moment — a 60-second release when there's no time or energy for anything more, a full guided flow when there's room to sit with something, or a multi-day program when the goal is to build a habit rather than get through a moment.
 
 **North star:** Someone having a hard night should be able to open this, feel less alone within 2 minutes, and know exactly where to go if things get serious.
 
@@ -69,11 +69,10 @@ The mascot — Squishy, a soft quokka — embodies the product's whole personali
 | **SOS overlay** | Persistent, one tap from any screen. Direct 988 call, grounding tools, and the user's own saved safety plan. Never buried behind a menu. |
 | **Safety plan** | Written in the user's own words when calm — warning signs, personal anchors, a trusted contact, and personal reasons — surfaced back to them inside the SOS overlay when it matters most. |
 | **AI companion (Squishy)** | AI-guided reflections that respond to what you write — warm, in the moment, never clinical. Appears inline in journal and flow steps. |
-
-<p align="center"><img src="./screenshots/07-journal-ai-nudge.png" width="220" alt="Journal entry with Squishy AI response inline"></p>
-
 | **6 guided programs** | Multi-day structured tracks (5–10 days each): Breaking self-criticism, Anxiety toolkit, Gratitude practice, Grief wave, Softer inner voice, Finding meaning. Each day builds on what you shared the day before, so it feels like an ongoing conversation rather than a checklist. |
 | **My Journey** | Streak tracking, this-week mood chart, and guided-program progress at a glance. |
+
+<p align="center"><img src="./screenshots/07-journal-ai-nudge.png" width="220" alt="Journal entry with Squishy AI response inline"></p>
 
 <p align="center">
   <img src="./screenshots/08-dopamine-menu.png" width="220" alt="Dopamine menu with curated course suggestions">
@@ -89,6 +88,8 @@ Some of these calls are backed by more than instinct — research on wellness ap
 <p align="center"><img src="./screenshots/05-sos-overlay.png" width="220" alt="SOS crisis overlay with 988 call button and safety plan"></p>
 
 **Safety comes before polish.** The SOS button sits on every single screen — mid-flow, mid-journal, mid-program. That costs a little visual real estate everywhere, permanently. I kept it anyway: the alternative is someone needing help and having to hunt for where to tap.
+
+**Not every hard moment needs the same amount of you.** Sometimes there's five minutes and zero patience for reflection — that's what Wave is for, a physical reset in under a minute, no thinking required. Sometimes there's room to actually sit with something — that's a guided flow. And sometimes the goal isn't getting through today at all, it's building something over time — that's what the multi-day programs are for. Same person, same app, three completely different asks depending on what's actually available that day.
 
 **How the app talks matters as much as what it says.** Every screen is written in plain, experiential language — *"my brain feels different today"* instead of "ADHD symptoms" — so someone can recognize themselves in it without being handed a clinical label they didn't ask for. That same instinct shapes the ADHD flows: instead of treating "ADHD" as one bucket, it forks by how it actually shows up — stuck and unable to start, an emotional spike, or a shame spiral afterward — three different experiences, three different entry points, instead of one generic button.
 
