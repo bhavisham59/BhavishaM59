@@ -103,8 +103,6 @@ Journal entries are encrypted on your device from the very first build.
 
 ## 6 — How It Was Built
 
-**Timeline:** April to July 2026.
-
 **Role:** End-to-end ownership — product strategy, UX design, content writing, architecture direction, QA, and deployment.
 
 **Approach:** AI-assisted development. Product direction, emotional content, UX decisions, and prioritization calls were mine throughout; Claude Code accelerated the implementation layer, and Claude (this conversation) handled strategy, planning, and writing.
