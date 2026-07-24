@@ -18,11 +18,6 @@
 - **Stack:** React + Vite, Supabase (auth, Postgres, Edge Functions), Claude AI, Vercel
 - **Built with:** AI-assisted development (Claude for strategy/content/planning, Claude Code for implementation)
 
-<p align="center">
-  <img src="./screenshots/03-flow-select.png" width="220" alt="Flow-select screen showing grouped sections">
-  <img src="./screenshots/09-flow-midstep.png" width="220" alt="Anxiety flow mid-step — breathing exercise with Squishy">
-</p>
-
 ---
 
 ## 1 — Why I Built This
@@ -59,8 +54,6 @@ The mascot — Squishy, a soft quokka — embodies the product's whole personali
 
 ## 4 — What Was Built
 
-<p align="center"><img src="./screenshots/04-journal-cat.png" width="240" alt="Journal write screen with category picker open"></p>
-
 | Feature | Why it exists |
 |---|---|
 | **14 guided flows** | Structured emotional support across four groups: **core emotions** (anxiety, overwhelm, anger, stress), **ADHD** (stuck/can't start, emotional spike, shame spiral), **grief & connection** (grief, loneliness, burnout), **self & mood** (self-criticism, low mood — numb / pointless / today). Each flow has multiple content variants, so returning users don't get the same experience twice. |
@@ -72,11 +65,17 @@ The mascot — Squishy, a soft quokka — embodies the product's whole personali
 | **6 guided programs** | Multi-day structured tracks (5–10 days each): Breaking self-criticism, Anxiety toolkit, Gratitude practice, Grief wave, Softer inner voice, Finding meaning. Each day builds on what you shared the day before, so it feels like an ongoing conversation rather than a checklist. |
 | **My Journey** | Streak tracking, this-week mood chart, and guided-program progress at a glance. |
 
-<p align="center"><img src="./screenshots/07-journal-ai-nudge.png" width="220" alt="Journal entry with Squishy AI response inline"></p>
+<p align="center">
+  <img src="./screenshots/03-flow-select.png" width="180" alt="Flow-select screen showing grouped sections">
+  <img src="./screenshots/09-flow-midstep.png" width="180" alt="Anxiety flow mid-step — breathing exercise with Squishy">
+  <img src="./screenshots/04-journal-cat.png" width="180" alt="Journal write screen with category picker open">
+</p>
 
 <p align="center">
-  <img src="./screenshots/08-dopamine-menu.png" width="220" alt="Dopamine menu with curated course suggestions">
-  <img src="./screenshots/06-wave-active.png" width="220" alt="Wave box-breathing timer mid-countdown">
+  <img src="./screenshots/07-journal-ai-nudge.png" width="180" alt="Gratitude journal nudge prompts">
+  <img src="./screenshots/10-wave-home.png" width="180" alt="Wave exercise list — ride the wave">
+  <img src="./screenshots/08-dopamine-menu.png" width="180" alt="Dopamine menu with curated course suggestions">
+  <img src="./screenshots/06-wave-active.png" width="180" alt="Wave box-breathing timer mid-countdown">
 </p>
 
 ---
